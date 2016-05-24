@@ -1,0 +1,28 @@
+{
+  "name": "electron-flappybird",
+  "version": "1.0.0",
+  "description": "electron-flappybird",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouzhou/electron-flappybird.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ouzhou/electron-flappybird/issues"
+  },
+  "homepage": "https://github.com/ouzhou/electron-flappybird#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.1.2"
+  }
+}
